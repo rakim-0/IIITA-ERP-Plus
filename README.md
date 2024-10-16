@@ -4,7 +4,7 @@ Just adds some quality of life changes to IIITA's ERP site. Currently only displ
 Contributions are welcome!
 
 
-The only way to install it do it through a userscript:
+Right now the only way to install it is to do it as a userscript:
 1. Install a userscript manager like [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/) 
 2. Install the script from [here](https://greasyfork.org/en/scripts/507128-attendance-percentage-for-iiita-erp)
 
