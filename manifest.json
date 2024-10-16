@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "IIITA ERP PLUS",
+    "version": "1.0",
+  
+    "description": "Adding QoL improvements to IIITA ERP site. For now only added Attendence Percentage.",
+  
+    "icons": {
+      "48": "icons/iiita-48.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://erp.iiita.ac.in/*"],
+        "js": ["main.js"]
+      }
+    ]
+  }
