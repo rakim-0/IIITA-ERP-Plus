@@ -3,8 +3,14 @@
     "name": "IIITA ERP PLUS",
     "version": "1.0",
   
-    "description": "Adding QoL improvements to IIITA ERP site. For now only added Attendence Percentage.",
-  
+    "description": "Adding QoL improvements to IIITA ERP site.",
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "iiita-erp-plus@iiita",
+        "strict_min_version": "120.0",
+        "update_url": "https://example.com/updates.json"
+      }
+    },
     "icons": {
       "48": "icons/iiita-48.png"
     },

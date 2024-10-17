@@ -1,0 +1,12 @@
+{
+    "addons": {
+      "{iiita-erp-plus@iiita}": {
+        "updates": [
+          {
+            "version": "1.0",
+            "update_link": ""
+          }
+        ]
+      }
+    }
+  }
